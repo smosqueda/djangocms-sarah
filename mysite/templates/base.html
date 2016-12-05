@@ -1,0 +1,154 @@
+{% load cms_tags menu_tags sekizai_tags %}
+<!doctype html>
+<html>
+    <head>
+        <title>{% block title %}This is my new project home page{% endblock title %}</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+        <!--link rel="stylesheet" type="text/css" href="/static/style.css" -->
+        
+        {% load staticfiles %}
+        
+        <style type="text/css">
+            /*.nav {
+                padding-left: 0;
+            }
+            .nav li {
+                display: inline;
+                list-style-type: none;
+                padding-right: 20px;   
+                font-family: Bevan, serif;
+            }
+            li {
+                text-decoration-style: none;
+            }
+            .child {
+                //font-family: Bevan, serif !important;
+                line-height: 21px;
+                color: rgb(24,24,24);
+            }
+            a:link { 
+                background-color: hotpink;
+                font-family: Bevan, serif;
+                text-decoration-style: none;
+            }
+            a:active { 
+                background-color: yellow;
+                color: purple;
+                font-family: Bevan, serif;
+                text-decoration-style: none;
+            }
+            a:hover {
+                color: white;
+                background-color: cadetblue;
+                font-family: Bevan, serif;
+                text-decoration-style: none;
+            }
+            .container {
+                width: 940px;
+                margin: 0 auto
+            }*/
+            @font-face {
+                font-family: 'icon-font';
+                src: url( "{% static "fonts/icon-font.eot" %}" );
+                src: url( "{% static "fonts/icon-font.woff" %}") format('woff'), url("{% static "fonts/icon-font.ttf" %}") format('truetype'), 
+                     url("{% static "fonts/icon-font.svg#icon-font" %}") format('svg');
+                font-weight: normal;
+                font-style: normal;
+            }
+            .nav nav-bar li {
+                text-align: center;
+                text-transform: uppercase;
+                font-family: 'icon-font'; /*"icon-font",*/
+                line-height: 15px;
+                transform-text: uppercase;
+            }
+            /*#footer-menu {
+                line-height: 21px;
+                color: navajowhite;               
+            }*/
+            #footer-menu li {
+                color: navajowhite;
+                padding-right: 25px; 
+                text-align: center;
+                margin-top: 10px;
+                font-family: 'icon-font'; /* san-serif;*/
+                line-height: 15px;
+                transform-text: uppercase;
+                /*font-family: "Bevan", serif;*/
+            }
+            #middle-spacing {
+                margin-left: 100px; margin-right: 100px;
+            }
+            .content {
+                float: left;
+                width: 80%;
+            }
+            .sidebar {
+                float: left;
+                width: 20%;
+            }
+            div.logo {
+                background: url('http://www.tampabay.com/iwov-resources/images/logo-500.png') center no-repeat;
+               /*background-image: url('http://www.tampabay.com/iwov-resources/images/logo-500.png');
+                background-repeat: no-repeat;*/
+                center: center;
+                width: 100%;
+                height: 120px;
+            }
+            .buffer {
+                margin-left: 45px;
+                margin-top: 10px;
+                margin-bottom: 20px;
+            }
+        </style>
+        
+    </head>
+    <body>
+        <div class="row-fluid logo">
+            <div class="span12">
+                <div class="span6">
+                    <h1 class="muted"><!--Tampa Bay Times--></h1>
+                </div>
+            </div>
+        </div>
+        {% cms_toolbar %}
+        {% render_block "css" %}
+        <div class="middle-spacing">
+            <nav class="navbar navbar-inverse">            
+                <div class="container-fluid">
+                    <ul class="nav navbar-nav">
+                        {% show_menu 0 100 100 100 %}
+                    </ul>
+                </div>            
+            </nav>
+        </div>        
+        
+        <div class="container-fluid">
+            <h3>Special Feature</h3>
+            <div class="row"> <!--jumbotron-->
+                <div class="col-md-6">
+                 {% static_placeholder 'feature' %}
+                </div>
+                <div class="col-md-3 pull-left">
+                 {% placeholder 'writers' %}
+                </div>
+                <div class="col-md-3"></div>                
+            </div>
+            <div class="row">
+                <div class="col-md-6" style="margin-left: 30px">{% block content %}{% endblock content %}</div>
+            </div>
+            <div class="row">
+                <div class="col-md-3 buffer">
+                     {% placeholder "splashbox" %}
+                </div>
+            </div>
+        </div>          
+           
+        
+        {% render_block "js" %}
+        <footer>
+          {% static_placeholder 'footer' %}
+        </footer>
+    </body>
+</html>

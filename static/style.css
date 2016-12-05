@@ -1,0 +1,54 @@
+.nav {
+                padding-left: 0;
+            }
+            .nav li {
+                display: inline;
+                list-style-type: none;
+                padding-right: 20px;   
+                font-family: Bevan, serif;
+            }
+            li {
+                text-decoration-style: none;
+            }
+            .child {
+                //font-family: Bevan, serif !important;
+                line-height: 21px;
+                color: rgb(24,24,24);
+            }
+            a:link { 
+                background-color: hotpink;
+                font-family: Bevan, serif;
+                text-decoration-style: none;
+            }
+            a:active { 
+                background-color: yellow;
+                color: purple;
+                font-family: Bevan, serif;
+                text-decoration-style: none;
+            }
+            a:hover {
+                color: white;
+                background-color: cadetblue;
+                font-family: Bevan, serif;
+                text-decoration-style: none;
+            }
+            .container {
+                width: 940px;
+                margin: 0 auto
+            }
+            .content {
+                float: left;
+                width: 80%;
+            }
+            .sidebar {
+                float: left;
+                width: 20%;
+            }
+            div.logo {
+                background: url('http://www.tampabay.com/iwov-resources/images/logo-500.png') center no-repeat;
+               /*background-image: url('http://www.tampabay.com/iwov-resources/images/logo-500.png');
+                background-repeat: no-repeat;*/
+                center: center;
+                width: 100%;
+                height: 120px;
+            }
