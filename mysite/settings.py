@@ -150,7 +150,9 @@ INSTALLED_APPS = (
     'djangocms_video',
     'mysite',
     'polls',
-    'polls_cms_integration'
+    'polls_cms_integration',
+    'writer',
+    'story'
 )
 
 LANGUAGES = (
@@ -201,6 +203,16 @@ DATABASES = {
 
 MIGRATION_MODULES = {
     
+}
+
+CKEDITOR_SETTINGS = {
+    'language': '{{ language }}',
+    'toolbar_CMS': [
+        ['Undo', 'Redo'],
+        ['cmsplugins', '-', 'ShowBlocks'],
+        ['Format', 'Styles'],
+    ],
+    'skin': 'moono',
 }
 
 THUMBNAIL_PROCESSORS = (
