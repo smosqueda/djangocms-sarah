@@ -17,20 +17,35 @@ class IndexView(generic.ListView):
     two = None
     three = None
     def get_queryset(self):
-        section = get_object_or_404(Section, section_slug="news")
-        writer_list = Writer.objects.filter(section__section_slug="news")[:3]
+        writer_list = None
+        section_param = None
+        #num_param = None
+        try:
+            section_param = self.args[0]            
+        except:
+            section_param = "news"
+        logging.error("section_param %s" % (section_param))
+        #num_param = self.args[1]
+        try:
+            section = get_object_or_404(Section, section_slug=section_param)
+            if section is not None:
+                writer_list = Writer.objects.filter(section__section_slug=section_param)[:3]
+        except:
+            section = None    
+        #if num_param is None:
+        #    num_param = 3
+    # get 3 writers
         one_story = None
         two_story = None
         three_story = None
-        if writer_list:
+        if writer_list is not None:
             logging.error("HAVE A writer_list")
             #one = writer_list.get(name_slug='john-romano')
             #two = writer_list.get(name_slug='sue-carlton')
             #three = writer_list.get(name_slug='ernest-hooper')            
             one = writer_list[0]
             two = writer_list[1]
-            three = writer_list[2]
-            
+            three = writer_list[2]            
             #logging.error("one's stuff %s %s %s" % (one.first_name, one.bio, one.section.section_slug))
             if one:
                 one_story = Story.objects.filter(section=section).filter(writers__in=[one]).order_by("-publish_date").select_related()
@@ -57,7 +72,7 @@ class IndexView(generic.ListView):
             return writer_list
         else:
             logging.error("no writer_list")
-            return ""
+            return None
     #return render_to_response('index.html',{'object': story, 'year': year, 'month': month, 'day': day, 'slug': slug, 'edition': ed, #'facebook_id' : settings.FACEBOOK_APP_ID })
 
     #stories = Story.published_objects.filter(section=section).order_by('-publish_date').select_related()[:5]
