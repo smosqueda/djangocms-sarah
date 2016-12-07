@@ -9,8 +9,91 @@ import logging
 logging.basicConfig(filename='/Users/smosqueda/django-playground/booger/projects/tbtdjangocms/writer/writer.log',level=logging.INFO)
 
 class IndexView(generic.ListView):
+    template_name = 'writer/index2.html'
+    context_object_name = 'list'    
+    #story_list = get_list_or_404(Story.published_objects,section__section_slug=section.section_slug)
+    #writer_list = dict{}
+    one = None
+    logging.error("----------------------")
+    logging.error("----------------------")
+    def get_queryset(self):
+        writer_list = None
+        section_param = None
+        num_param = None
+        try:
+            section_param = self.args[0]            
+        except:
+            section_param = "news"
+        logging.error("section_param %s" % (section_param))
+        try:
+            num_param = int(self.args[1])            
+        except:
+            num_param = 3
+        logging.error("num_param %s" % (num_param))
+        #num_param = self.args[1]
+        try:
+            section = get_object_or_404(Section, section_slug=section_param)
+            logging.error("got a section %s" % (section.section_slug))
+            if section is not None:
+                logging.error("going to build writer_list")
+                writer_list = Writer.objects.filter(section__section_slug=section_param)[:num_param]
+            else :
+                writer_list = Writer.objects.filter(section__section_slug="news")[:num_param]
+        except:
+            section = None 
+        
+        cnt = 0
+        story_list = {}
+        #alt_list = {}
+        writer = None
+        r_story = None
+        if writer_list is not None:
+            logging.error("HAVE A writer_list")
+            
+            for writer in writer_list:
+                one = writer_list[cnt]
+                cnt += 1
+                           
+            #logging.error("one's stuff %s %s %s" % (one.first_name, one.bio, one.section.section_slug))
+                if one:
+                    one_story = Story.objects.filter(section=section).filter(writers__in=[one]).order_by("-publish_date").select_related()
+                    if one_story is not None:
+                        r_story = one_story[0];
+                        logging.error("story details: %s %s" % (r_story.headline, r_story.body_text))
+                    else:
+                        logging.error("don't have one_story")  
+            #writer_list = {'parrot': ('dead', 'stone'), 'lumberjack': ('sleep_all_night', 'work_all_day')}
+                    key = ('key-%s' % (cnt))
+                    data = (one, r_story)
+                    #data = {writer, r_story}
+                    logging.error("cnt IS %s" % (cnt))  
+                    story_list[key] = data
+                    #alt_list[key] = data
+                    logging.error("added ")
+                    #case = {'key1': value, 'key2': value, 'key3':value }
+                    #case_list[entryname] = case
+                    #= dict(one_writer=one, one_story=r_story, two_writer=two, two_story=s_story, three_writer=three, three_story=e_story)
+                if cnt == num_param:
+                    logging.error("done with list")
+                    logging.error("---------zzz-------------")
+                    for key in story_list:
+                        #for k in couple:
+                        pairing = story_list[key]
+                        logging.error("%s slug and story: %s" % (cnt, key)) 
+                        logging.error("%s pairing: %s %s %s" % (cnt, pairing[0].last_name, pairing[1].headline, pairing[1].body_text))
+                    logging.error("----------zzz------------")
+                    return story_list
+                else:
+                    if cnt > 7:
+                        return story_list                    
+            return writer_list
+        else:
+            logging.error("no writer_list")
+            return None
+        
+class IndexViewOld(generic.ListView):
     template_name = 'writer/index.html'
-    context_object_name = 'latest_writer_list'    
+    context_object_name = 'list'    
     #story_list = get_list_or_404(Story.published_objects,section__section_slug=section.section_slug)
     #writer_list = dict{}
     one = None
@@ -67,8 +150,11 @@ class IndexView(generic.ListView):
                     e_story = three_story[0];
                     logging.error("story details: %s %s" % (e_story.headline, e_story.body_text))
                 else:
-                    logging.error("don't have three_story")            
+                    logging.error("don't have three_story")   
+                    
+            #writer_list = {'parrot': ('dead', 'stone'), 'lumberjack': ('sleep_all_night', 'work_all_day')}
             writer_list = dict(one_writer=one, one_story=r_story, two_writer=two, two_story=s_story, three_writer=three, three_story=e_story)
+            
             return writer_list
         else:
             logging.error("no writer_list")
