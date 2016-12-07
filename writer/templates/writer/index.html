@@ -1,21 +1,21 @@
 {% block writer_content %}
-{% if latest_writer_list %}
+{% if list %}
 
 <!--first writer -->
     <ul>
-    {% if latest_writer_list.one_writer %}
-                <li>{{ latest_writer_list.one_writer.first_name }}{{ latest_writer_list.one_writer.last_name }}   
+    {% if list.one_writer %}
+                <li>{{ list.one_writer.first_name }}{{ list.one_writer.last_name }}   
                     
-                    {% if latest_writer_list.one_writer.photo %}            
-                        <img src="{{latest_writer_list.one_writer.photo.url}}"/>
+                    {% if list.one_writer.photo %}            
+                        <img src="{{list.one_writer.photo.url}}"/>
                     {% else %}                        
                         <span>No Photo</span>
                     {% endif %} 
-                    <a href="writers/{{ latest_writer_list.one_writer.name_slug }}">Check out my bio.</a>
+                    <a href="writers/{{ list.one_writer.name_slug }}">Check out my bio.</a>
                     
-                    {% if latest_writer_list.one_story %}
+                    {% if list.one_story %}
                     <ul>
-                        <li>My latest story: {{ latest_writer_list.one_story.headline }}</li>
+                        <li>My latest story: {{ list.one_story.headline }}</li>
                     </ul>                    
                     {% endif %}
                     
@@ -25,19 +25,19 @@
 
 <!--second writer -->
     <ul>
-    {% if latest_writer_list.two_writer %}
-                <li>{{ latest_writer_list.two_writer.first_name }}{{ latest_writer_list.two_writer.last_name }}   
+    {% if list.two_writer %}
+                <li>{{ list.two_writer.first_name }}{{ list.two_writer.last_name }}   
                     
-                    {% if latest_writer_list.two_writer.photo %}            
-                        <img src="{{latest_writer_list.two_writer.photo.url}}"/>
+                    {% if list.two_writer.photo %}            
+                        <img src="{{list.two_writer.photo.url}}"/>
                     {% else %}                        
                         <span>No Photo</span>
                     {% endif %} 
-                    <a href="writers/{{ latest_writer_list.two_writer.name_slug }}">Check out my bio.</a>
+                    <a href="writers/{{ list.two_writer.name_slug }}">Check out my bio.</a>
                     
-                    {% if latest_writer_list.two_story %}
+                    {% if list.two_story %}
                     <ul>
-                        <li>My latest story: {{ latest_writer_list.two_story.headline }}</li>
+                        <li>My latest story: {{ list.two_story.headline }}</li>
                     </ul>                    
                     {% endif %}
                     
@@ -47,19 +47,19 @@
 
 <!--third writer -->
     <ul>
-    {% if latest_writer_list.three_writer %}
-                <li>{{ latest_writer_list.three_writer.first_name }}{{ latest_writer_list.three_writer.last_name }}   
+    {% if list.three_writer %}
+                <li>{{ list.three_writer.first_name }}{{ list.three_writer.last_name }}   
                     
-                    {% if latest_writer_list.three_writer.photo %}            
-                        <img src="{{latest_writer_list.three_writer.photo.url}}"/>
+                    {% if list.three_writer.photo %}            
+                        <img src="{{list.three_writer.photo.url}}"/>
                     {% else %}                        
                         <span>No Photo</span>
                     {% endif %} 
-                    <a href="writers/{{ latest_writer_list.three_writer.name_slug }}">Check out my bio.</a>
+                    <a href="writers/{{ list.three_writer.name_slug }}">Check out my bio.</a>
                     
-                    {% if latest_writer_list.three_story %}
+                    {% if list.three_story %}
                     <ul>
-                        <li>My latest story: {{ latest_writer_list.three_story.headline }}</li>
+                        <li>My latest story: {{ list.three_story.headline }}</li>
                     </ul>                    
                     {% endif %}
                     
