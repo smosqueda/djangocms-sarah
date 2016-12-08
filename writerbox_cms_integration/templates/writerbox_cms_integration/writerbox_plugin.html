@@ -2,34 +2,33 @@
 {% if instance %}
 
 <!--first writer -->
-<h3>Getting list of Writers:</h3>
+<h3>Writers:</h3>
 <div>
     
-    <ul>
+    
         
 {% for key,value in instance.items %}
     <!--span> huh? {{key}} : {{value.0.name_slug}} {{value.1.headline}} {{value.1.body_text}}</span><br/-->
-        
-        <li>{{ value.0.first_name }}{{ value.0.last_name }}   
-
+        <ul style="list-style-type: none; display:inline;">
+        <li style="display:inline;">
             {% if value.0.photo %}            
-                <img src="{{value.0.photo.url}}"/>
+            <a href="writers/{{ value.0.name_slug }}"><img src="{{value.0.photo.url}}"/></a>
             {% else %}                        
                 <span>No Photo</span>
             {% endif %} 
-            <a href="writers/{{ value.0.name_slug }}">Check out my bio.</a>
-
-            {% if value.1.headline %}
-            <ul>
-                <li>My latest story: {{ value.1.headline }}</li>
-            </ul>                    
-            {% endif %}
-
+        </li>
+        <li style="display:inline;">
+            <a href="writers/{{ value.0.name_slug }}">{{ value.0.first_name }} {{ value.0.last_name }} </a>
+                <br/>
+                <span>{{ value.1.publish_date }}</span>
+                {% if value.1.headline %}
+                <br/>My latest story: <a href="/story/{{value.1.headline_slug}}">{{ value.1.headline }}</a>                        
+                <!--br/><a href="writers/{{ value.0.name_slug }}">Check out my bio.</a-->
+                {% endif %}
         </li> 
-        
-{% endfor %}
-        
-    </ul>
+        </ul>
+{% endfor %}       
+    
 
 </div>
 
