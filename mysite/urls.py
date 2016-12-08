@@ -21,6 +21,7 @@ urlpatterns += i18n_patterns('',
     url(r'^admin/', include(admin.site.urls)),  # NOQA
     url(r'^polls/', include('polls.urls', namespace='polls')),
     url(r'^writerbox/', include('writer.urls', namespace='writers')),
+    #url(r'^news/', include('writer.urls', namespace='writers')),
     url(r'^', include('cms.urls')),
 )
 

@@ -8,7 +8,7 @@ import djangocms_text_ckeditor.fields
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('writer', '0002_auto_20161205_1543'),
+        ('writer', '__first__'),
     ]
 
     operations = [
@@ -31,6 +31,7 @@ class Migration(migrations.Migration):
             ],
             options={
                 'ordering': ['-publish_date'],
+                'verbose_name_plural': 'Stories',
             },
         ),
     ]

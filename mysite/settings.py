@@ -152,7 +152,8 @@ INSTALLED_APPS = (
     'polls',
     'polls_cms_integration',
     'writer',
-    'story'
+    'story',
+    'writerbox_cms_integration'
 )
 
 LANGUAGES = (

@@ -173,3 +173,4148 @@ ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p
 
 ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
 
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param politics
+ERROR:root:no writer_list
+ERROR:root:section_param politics
+ERROR:root:no writer_list
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param giraffe
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param panda
+ERROR:root:section_param panda
+ERROR:root:section_param panda
+ERROR:root:section_param panda
+ERROR:root:section_param panda
+ERROR:root:section_param chocolate
+ERROR:root:section_param chocolate
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param koop
+ERROR:root:section_param koop
+ERROR:root:no writer_list
+ERROR:root:section_param banana
+ERROR:root:no writer_list
+ERROR:root:section_param news
+ERROR:root:no writer_list
+ERROR:root:section_param news
+ERROR:root:no writer_list
+ERROR:root:section_param news
+ERROR:root:no writer_list
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param booger
+ERROR:root:no writer_list
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param 2
+ERROR:root:num_param 3
+ERROR:root:no writer_list
+ERROR:root:section_param 2
+ERROR:root:num_param 3
+ERROR:root:no writer_list
+ERROR:root:section_param 2
+ERROR:root:num_param 3
+ERROR:root:no writer_list
+ERROR:root:section_param 2
+ERROR:root:num_param 3
+ERROR:root:no writer_list
+ERROR:root:section_param 2
+ERROR:root:num_param 3
+ERROR:root:no writer_list
+ERROR:root:section_param 2
+ERROR:root:num_param 3
+ERROR:root:no writer_list
+ERROR:root:section_param 3
+ERROR:root:num_param 3
+ERROR:root:no writer_list
+ERROR:root:section_param 3
+ERROR:root:num_param 3
+ERROR:root:no writer_list
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: k
+ERROR:root:3 slug and story: e
+ERROR:root:3 slug and story: y
+ERROR:root:3 slug and story: -
+ERROR:root:3 slug and story: 3
+ERROR:root:3 slug and story: k
+ERROR:root:3 slug and story: e
+ERROR:root:3 slug and story: y
+ERROR:root:3 slug and story: -
+ERROR:root:3 slug and story: 2
+ERROR:root:3 slug and story: k
+ERROR:root:3 slug and story: e
+ERROR:root:3 slug and story: y
+ERROR:root:3 slug and story: -
+ERROR:root:3 slug and story: 1
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 slug and story: key-1
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 slug and story: key-1
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: John Romano, Times Staff Writer Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Ernest Hooper, Times Staff Editor Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Sue Carlton, Times Staff Writer Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing:  Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing:  Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing:  Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: john-romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: ernest-hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: sue-carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 2
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:2 slug and story: key-2
+ERROR:root:2 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:2 slug and story: key-1
+ERROR:root:2 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 2
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:2 slug and story: key-2
+ERROR:root:2 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:2 slug and story: key-1
+ERROR:root:2 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 4
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:section_param news
+ERROR:root:num_param 4
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 7
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:section_param news
+ERROR:root:num_param 7
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 2
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:2 slug and story: key-2
+ERROR:root:2 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:2 slug and story: key-1
+ERROR:root:2 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 2
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:2 slug and story: key-2
+ERROR:root:2 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:2 slug and story: key-1
+ERROR:root:2 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 7
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:section_param news
+ERROR:root:num_param 7
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 2
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:2 slug and story: key-2
+ERROR:root:2 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:2 slug and story: key-1
+ERROR:root:2 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 2
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:2 slug and story: key-2
+ERROR:root:2 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:2 slug and story: key-1
+ERROR:root:2 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param opinin
+ERROR:root:num_param 2
+ERROR:root:no writer_list
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 2
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:2 slug and story: key-2
+ERROR:root:2 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:2 slug and story: key-1
+ERROR:root:2 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 1
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:1 slug and story: key-1
+ERROR:root:1 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 2
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:2 slug and story: key-2
+ERROR:root:2 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:2 slug and story: key-1
+ERROR:root:2 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:story details: Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:cnt IS 3
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:3 slug and story: key-3
+ERROR:root:3 pairing: Romano Romanos first story <p>Cow jumped over the moon.</p>
+
+ERROR:root:3 slug and story: key-2
+ERROR:root:3 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:3 slug and story: key-1
+ERROR:root:3 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 2
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:2 slug and story: key-2
+ERROR:root:2 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:2 slug and story: key-1
+ERROR:root:2 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 2
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:2 slug and story: key-2
+ERROR:root:2 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:2 slug and story: key-1
+ERROR:root:2 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:section_param news
+ERROR:root:num_param 2
+ERROR:root:got a section news
+ERROR:root:going to build writer_list
+ERROR:root:HAVE A writer_list
+ERROR:root:story details: Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:cnt IS 1
+ERROR:root:added 
+ERROR:root:story details: Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:cnt IS 2
+ERROR:root:added 
+ERROR:root:done with list
+ERROR:root:---------zzz-------------
+ERROR:root:2 slug and story: key-2
+ERROR:root:2 pairing: Hooper Ernie's first story <p>This is my first story, too.</p>
+
+ERROR:root:2 slug and story: key-1
+ERROR:root:2 pairing: Carlton Sue's first story <p>This is my first story in django cms as a writer.</p>
+
+ERROR:root:----------zzz------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:section_param news
+ERROR:root:num_param 3
+ERROR:root:no writer_list
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------
+ERROR:root:----------------------

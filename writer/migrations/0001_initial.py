@@ -2,7 +2,7 @@
 from __future__ import unicode_literals
 
 from django.db import migrations, models
-import ckeditor.fields
+import djangocms_text_ckeditor.fields
 
 
 class Migration(migrations.Migration):
@@ -17,6 +17,7 @@ class Migration(migrations.Migration):
                 ('id', models.AutoField(verbose_name='ID', serialize=False, auto_created=True, primary_key=True)),
                 ('section', models.CharField(max_length=50)),
                 ('section_slug', models.SlugField(unique=True)),
+                ('display_count', models.IntegerField(default=3)),
             ],
         ),
         migrations.CreateModel(
@@ -28,7 +29,7 @@ class Migration(migrations.Migration):
                 ('name_slug', models.SlugField(unique=True)),
                 ('title', models.CharField(max_length=200)),
                 ('email_address', models.EmailField(max_length=254)),
-                ('bio', ckeditor.fields.RichTextField()),
+                ('bio', djangocms_text_ckeditor.fields.HTMLField()),
                 ('photo', models.ImageField(upload_to=b'', blank=True)),
                 ('on_staff', models.BooleanField(default=True)),
                 ('section', models.ForeignKey(to='writer.Section')),

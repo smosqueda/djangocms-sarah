@@ -1,5 +1,6 @@
 from django.contrib import admin
-from story.models import Story, Writer
+from story.models import Story
+from writer.models import Section, Writer
 
 class StoryAdmin(admin.ModelAdmin):
     search_fields = ['headline', 'headline_slug']

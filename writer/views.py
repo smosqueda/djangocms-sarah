@@ -21,12 +21,14 @@ class IndexView(generic.ListView):
         section_param = None
         num_param = None
         try:
-            section_param = self.args[0]            
+            section_param = self.args[0].lower()            
         except:
             section_param = "news"
         logging.error("section_param %s" % (section_param))
         try:
-            num_param = int(self.args[1])            
+            num_param = int(self.args[1])  
+            if num_param > 5: #prevent failure
+                num_param = 3
         except:
             num_param = 3
         logging.error("num_param %s" % (num_param))
@@ -85,7 +87,8 @@ class IndexView(generic.ListView):
                     return story_list
                 else:
                     if cnt > 7:
-                        return story_list                    
+                        return story_list
+                        
             return writer_list
         else:
             logging.error("no writer_list")
