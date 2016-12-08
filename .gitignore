@@ -1,3 +1,4 @@
 static
 *.pyc
 writer/writer.log
+writerbox_cms_integration/migrations
