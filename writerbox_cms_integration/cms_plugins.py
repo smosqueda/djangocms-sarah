@@ -8,6 +8,20 @@ from django.utils.translation import ugettext as _
 import logging
 logging.basicConfig(filename='/Users/smosqueda/django-playground/booger/projects/tbtdjangocms/writerbox_cms_integration/writer_cms.log',level=logging.INFO)
 
+'''def reverse_dict(dictionary):
+    reverse_dict = {}
+    for key, value in dictionary.iteritems():
+        if not isinstance(value, (list, tuple)):
+            value = [value]
+        for val in value:
+            reverse_dict[val] = reverse_dict.get(val, [])
+            reverse_dict[val].append(key)
+    for key, value in reverse_dict.iteritems():
+        if len(value) == 1:
+            reverse_dict[key] = value[0]
+    return reverse_dict
+'''
+
 class WriterboxPluginPublisher(CMSPluginBase):
     model = SectionChoicePluginModel  # model where plugin data are saved    
     module = _("Writerboxes")
@@ -112,7 +126,12 @@ class WriterboxPluginPublisher(CMSPluginBase):
             logging.error("no writer_list")
             story_list = None
             #return None
-        instance = story_list
+        
+        #if story_list is not None:
+        #    instance = reverse_dict(story_list)
+        #else :
+        instance = story_list            
+        
         context.update({'instance': instance})
         return context
         #return render(request, render_template, {'list': story_list })
