@@ -153,7 +153,8 @@ INSTALLED_APPS = (
     'polls_cms_integration',
     'writer',
     'story',
-    'writerbox_cms_integration'
+    'writerbox_cms_integration',
+    'djangocms_flexslider'
 )
 
 LANGUAGES = (
@@ -182,6 +183,7 @@ CMS_LANGUAGES = {
 CMS_TEMPLATES = (
     ## Customize this
     ('fullwidth.html', 'Fullwidth'),
+    ('alternate.html', 'Alternate'),
     ('sidebar_left.html', 'Sidebar Left'),
     ('sidebar_right.html', 'Sidebar Right')
 )
@@ -222,3 +224,8 @@ THUMBNAIL_PROCESSORS = (
     'filer.thumbnail_processors.scale_and_crop_with_subject_location',
     'easy_thumbnails.processors.filters'
 )
+
+#DJANGOCMS_FLEXSLIDER = {
+#    'JS_URL': 'https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.1/jquery.flexslider.min.js',
+#    'CSS_URL': 'https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.1/flexslider.min.css'
+#}
