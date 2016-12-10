@@ -1,5 +1,4 @@
 from django.db import models
-#from ckeditor.fields import RichTextField as HTMLField
 from djangocms_text_ckeditor.fields import HTMLField
 from django.db.models import Q
 from writer.models import Section, Writer
