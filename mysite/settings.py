@@ -154,7 +154,9 @@ INSTALLED_APPS = (
     'writer',
     'story',
     'writerbox_cms_integration',
-    'djangocms_flexslider'
+    'djangocms_flexslider',
+    'carousel',
+    'cms_carouselslider_integration'
 )
 
 LANGUAGES = (
@@ -184,6 +186,7 @@ CMS_TEMPLATES = (
     ## Customize this
     ('fullwidth.html', 'Fullwidth'),
     ('alternate.html', 'Alternate'),
+    ('carousel_article.html', 'Carousel'),
     ('sidebar_left.html', 'Sidebar Left'),
     ('sidebar_right.html', 'Sidebar Right')
 )
