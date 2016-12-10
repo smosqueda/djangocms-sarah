@@ -5,6 +5,7 @@
         <title>{% block title %}This is my new project home page{% endblock title %}</title>
         <meta name="viewport" content="width=device-width,initial-scale=1">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <!--link rel="stylesheet" type="text/css" href="/static/style.css" -->
         
         {% load staticfiles %}
@@ -13,51 +14,16 @@
         <style type="text/css">
             @import url('https://fonts.googleapis.com/css?family=Bevan');
             
-            /*.nav {
-                padding-left: 0;
-            }
-            .nav li {
-                display: inline;
-                list-style-type: none;
-                padding-right: 20px;   
-                font-family: Bevan, serif;
-            }
-            li {
-                text-decoration-style: none;
-            }
-            .child {
-                //font-family: Bevan, serif !important;
-                line-height: 21px;
-                color: rgb(24,24,24);
-            }
-            a:link { 
-                background-color: hotpink;
-                font-family: Bevan, serif;
-                text-decoration-style: none;
-            }
-            a:active { 
-                background-color: yellow;
-                color: purple;
-                font-family: Bevan, serif;
-                text-decoration-style: none;
-            }
-            a:hover {
-                color: white;
-                background-color: cadetblue;
-                font-family: Bevan, serif;
-                text-decoration-style: none;
-            }
-            .container {
-                width: 940px;
-                margin: 0 auto
-            }*/
-            @font-face {
+            /*@font-face {
                 font-family: 'icon-font';
                 src: url( "{% static "fonts/icon-font.eot" %}" );
                 src: url( "{% static "fonts/icon-font.woff" %}") format('woff'), url("{% static "fonts/icon-font.ttf" %}") format('truetype'), 
                      url("{% static "fonts/icon-font.svg#icon-font" %}") format('svg');
                 font-weight: normal;
                 font-style: normal;
+            }*/
+            body {
+                margin-left: 15px;
             }
             .nav nav-bar li {
                 text-align: center;
@@ -66,10 +32,6 @@
                 line-height: 15px;
                 text-transform: uppercase;
             }
-            /*#footer-menu {
-                line-height: 21px;
-                color: navajowhite;               
-            }*/
             #footer-menu li {
                 color: navajowhite;
                 padding-right: 25px; 
@@ -103,7 +65,8 @@
                 margin-left: 45px;
                 margin-top: 10px;
                 margin-bottom: 20px;
-            }
+            }            
+            
         </style>
         
     </head>
@@ -129,20 +92,22 @@
         
         <div class="container-fluid">
             <h3>Special Feature</h3>
-            <div class="row"> <!--jumbotron-->
+            <div class="row">
                 <div class="col-md-6">
                  {% static_placeholder 'feature' %}
-                </div>
+                </div>                
+                <div class="col-md-6" style="margin-left: 30px">{% block content %}{% endblock content %}</div>                
                 <div class="col-md-3 pull-left">
                  {% placeholder 'poll' %}
                 </div>
-                <div class="col-md-3 pull-left">
+            </div>
+            
+            <div class="row"> <!--jumbotron-->                
+                <div class="col-md-3">
                  {% placeholder 'writers' %}
-                </div>                
+                </div>
             </div>
-            <div class="row">
-                <div class="col-md-6" style="margin-left: 30px">{% block content %}{% endblock content %}</div>
-            </div>
+            
             <div class="row">
                 <div class="col-md-3 buffer">
                      {% placeholder "splashbox" %}
@@ -150,11 +115,12 @@
                 <div class="col-md-3 pull-left">
                     {% placeholder 'writerbox' %}
                 </div>
-            </div>
-        </div>          
-           
+             </div>
+        </div>
+                  
         
         {% render_block "js" %}
+        
         <footer>
           {% static_placeholder 'footer' %}
         </footer>
