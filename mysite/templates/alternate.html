@@ -1,0 +1,185 @@
+{% load cms_tags menu_tags sekizai_tags %}
+<!doctype html>
+<html>
+    <head>
+        <title>{% block title %}This is my new project home page{% endblock title %}</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.1/flexslider.min.css">
+        <!--link rel="stylesheet" type="text/css" href="/static/style.css" -->
+        
+        {% load staticfiles %}
+        <link href="https://fonts.googleapis.com/css?family=Bevan" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Francois%20One" rel="stylesheet">
+        <style type="text/css">
+            @import url('https://fonts.googleapis.com/css?family=Bevan');
+            
+            .nav nav-bar li {
+                text-align: center;
+                text-transform: uppercase;
+                font-family: 'Bevan'; /*"icon-font",*/
+                line-height: 15px;
+                text-transform: uppercase;
+            }
+            #footer-menu li {
+                color: navajowhite;
+                padding-right: 25px; 
+                text-align: center;
+                margin-top: 10px;
+                font-family: 'Bevan'; /* san-serif;*/
+                line-height: 15px;
+                text-transform: uppercase;
+                /*font-family: "Bevan", serif;*/
+            }
+            #middle-spacing {
+                margin-left: 100px; margin-right: 100px;
+            }
+            .content {
+                float: left;
+                width: 80%;
+            }
+            .sidebar {
+                float: left;
+                width: 20%;
+            }
+            div.logo {
+                background: url('http://www.tampabay.com/iwov-resources/images/logo-500.png') center no-repeat;
+                width: 100%;
+                height: 120px;
+            }
+            .buffer {
+                margin-left: 45px;
+                margin-top: 10px;
+                margin-bottom: 20px;
+            }            
+            
+        </style>
+        
+        <style type="text/css">
+            .flex-caption {
+              width: 100%;
+              padding: 2%;
+              left: 0;
+              bottom: 0;
+              background: rgba(0,0,0,.5);
+              color: #fff;
+              text-shadow: 0 -1px 0 rgba(0,0,0,.3);
+              font-size: 14px;
+              line-height: 18px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="row-fluid logo">
+            <div class="span12">
+                <div class="span6">
+                    <h1 class="muted"><!--Tampa Bay Times--></h1>
+                </div>
+            </div>
+        </div>
+        {% cms_toolbar %}
+        {% render_block "css" %}
+        <div class="middle-spacing">
+            <nav class="navbar navbar-inverse">            
+                <div class="container-fluid">
+                    <ul class="nav navbar-nav">
+                        {% show_menu 0 100 100 100 %}
+                    </ul>
+                </div>            
+            </nav>
+        </div>        
+        
+        <div class="container">
+            <h3>Carousel</h3>
+            <div class="row">
+                <div id="slider" class="flexslider col-sm-8">
+                  <ul class="slides">
+
+                    <li>
+                      <img class="medium" src="/media/filer_public_thumbnails/filer_public/e8/66/e8663fb4-ae48-4e0b-a245-b555492408ae/politics_tallahassee.jpg__266x190_q85_crop_subsampling-2_upscale.jpg" />
+                        <p class="flex-caption">Adventurer Cheesecake Brownie</p>
+                    </li>
+                      
+                    <li>
+                      <img class="medium" src="/media/filer_public_thumbnails/filer_public/d0/ea/d0ea2462-ee80-4321-ab6f-1fffe4b50e7d/restaurant.jpg__291x173_q85_crop_subsampling-2_upscale.jpg" />
+                        <p class="flex-caption">Adventurer Cheesecake Brownie</p>
+                    </li>
+                    <li>
+                      <img class="medium" src="/media/filer_public_thumbnails/filer_public/c0/15/c015df9a-43e7-400b-93b1-4f7064333ef0/politics_story.jpg__246x205_q85_crop_subsampling-2_upscale.jpg" />
+                        <p class="flex-caption">Adventurer Cheesecake Brownie</p>
+                    </li>
+                    <li>
+                        <img class="medium" src="/media/filer_public_thumbnails/filer_public/77/56/77566a01-4778-4e8a-83a7-362dadc993b8/hollys_story.jpg__180x180_q85_crop_subsampling-2_upscale.jpg" />  
+                    </li>
+                    <!-- items mirrored twice, total of 12 -->
+                  </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div id="carousel" class="flexslider col-sm-8">
+                  <ul class="slides">            
+                    <li>
+                      <img class="small" src="/media/filer_public_thumbnails/filer_public/e8/66/e8663fb4-ae48-4e0b-a245-b555492408ae/politics_tallahassee.jpg__266x190_q85_crop_subsampling-2_upscale.jpg" />
+                    </li>
+                    <li>
+                      <img class="small" src="/media/filer_public_thumbnails/filer_public/d0/ea/d0ea2462-ee80-4321-ab6f-1fffe4b50e7d/restaurant.jpg__291x173_q85_crop_subsampling-2_upscale.jpg" />
+                    </li>
+                    <li>
+                      <img class="small" src="/media/filer_public_thumbnails/filer_public/c0/15/c015df9a-43e7-400b-93b1-4f7064333ef0/politics_story.jpg__246x205_q85_crop_subsampling-2_upscale.jpg" />
+                    </li>
+                    <li>
+                        <img class="small" src="/media/filer_public_thumbnails/filer_public/77/56/77566a01-4778-4e8a-83a7-362dadc993b8/hollys_story.jpg__180x180_q85_crop_subsampling-2_upscale.jpg" />  
+                    </li>
+                    <!-- items mirrored twice, total of 12 -->
+                  </ul>
+                </div>
+            </div>
+        </div>
+        
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.1/jquery.flexslider.min.js"></script>
+        
+        <script type="text/javascript">
+            
+                    $(window).load(function() {
+                      // The slider being synced must be initialized first
+                      $('#carousel').flexslider({
+                        animation: "slide",
+                        controlNav: false,
+                        animationLoop: false,
+                        slideshow: false,
+                        itemWidth: 210,
+                        itemMargin: 5,
+                        asNavFor: '#slider'
+                      });
+
+                      $('#slider').flexslider({
+                        animation: "slide",
+                        controlNav: false,
+                        animationLoop: false,
+                        slideshow: false,
+                        sync: "#carousel"
+                      });
+                    });
+	   </script>
+        
+        <div class="container-fluid">
+            <h3>Special Feature</h3>
+            <div class="row"> <!--jumbotron-->
+                <div class="col-md-6">
+                 {% placeholder 'feature' %}
+                </div>            
+            </div>
+            <div class="row">
+                <div class="col-md-6" style="margin-left: 30px">{% block content %}{% endblock content %}</div>
+            </div>
+        </div>
+                  
+        
+        {% render_block "js" %}
+        
+        <footer>
+          {% static_placeholder 'footer' %}
+        </footer>
+    </body>
+</html>
