@@ -1,0 +1,108 @@
+{% load cms_tags menu_tags sekizai_tags %}
+<!doctype html>
+<html>
+    <head>
+        <title>{% block title %}This is my new project home page{% endblock title %}</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"/>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+        <!--link rel="stylesheet" type="text/css" href="/static/style.css" -->
+        
+        {% load staticfiles %}
+        <link href="https://fonts.googleapis.com/css?family=Bevan" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Francois%20One" rel="stylesheet">
+        <style type="text/css">
+            @import url('https://fonts.googleapis.com/css?family=Bevan');
+            
+            .nav nav-bar li {
+                text-align: center;
+                text-transform: uppercase;
+                font-family: 'Bevan'; /*"icon-font",*/
+                line-height: 15px;
+                text-transform: uppercase;
+            }
+            #footer-menu li {
+                color: navajowhite;
+                padding-right: 25px; 
+                text-align: center;
+                margin-top: 10px;
+                font-family: 'Bevan'; /* san-serif;*/
+                line-height: 15px;
+                text-transform: uppercase;
+                /*font-family: "Bevan", serif;*/
+            }
+            #middle-spacing {
+                margin-left: 100px; margin-right: 100px;
+            }
+            .content {
+                float: left;
+                width: 80%;
+            }
+            .sidebar {
+                float: left;
+                width: 20%;
+            }
+            div.logo {
+                background: url('http://www.tampabay.com/iwov-resources/images/logo-500.png') center no-repeat;
+                width: 100%;
+                height: 120px;
+            }
+            .buffer {
+                margin-left: 45px;
+                margin-top: 10px;
+                margin-bottom: 20px;
+            }       
+            body {
+                margin-left: 15px;
+            }
+            
+        </style>
+        
+        
+    </head>
+    <body>
+        <div class="row-fluid logo">
+            <div class="span12">
+                <div class="span6">
+                    <h1 class="muted"><!--Tampa Bay Times--></h1>
+                </div>
+            </div>
+        </div>
+        {% cms_toolbar %}
+        {% render_block "css" %}
+        <div class="middle-spacing">
+            <nav class="navbar navbar-inverse">            
+                <div class="container-fluid">
+                    <ul class="nav navbar-nav">
+                        {% show_menu 0 100 100 100 %}
+                    </ul>
+                </div>            
+            </nav>
+        </div>        
+        
+        {% placeholder 'carousel-slider' %}
+        
+        <div class="container-fluid">
+            <h3>Special Feature</h3>
+            <div class="row">
+                <div class="col-md-6">
+                 {% placeholder 'feature' %}
+                </div>            
+            </div>
+            <div class="row">
+                <div class="col-md-6" style="margin-left: 30px">
+                {% block content %}
+                    {% placeholder "content" %}
+                {% endblock content %}
+                </div>
+            </div>
+        </div>
+                  
+        
+        {% render_block "js" %}
+        
+        <footer>
+          {% static_placeholder 'footer' %}
+        </footer>
+    </body>
+</html>
