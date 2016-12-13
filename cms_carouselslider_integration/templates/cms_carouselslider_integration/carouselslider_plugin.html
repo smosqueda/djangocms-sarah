@@ -1,0 +1,195 @@
+{% block carousel-css-files %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.1/flexslider.min.css">
+
+{% endblock %}
+
+    {% block carousel-css %}
+        
+
+    
+
+    {% if carousel.css %}
+     <!— custom css —>
+    <style type="text/css">
+      {{ carousel.css }}
+    </style>
+    {% else %}
+    
+    <!— default css —>
+    <style type="text/css">
+        .flex-caption {
+          width: 100%;
+          padding: 2%;
+          left: 0;
+          bottom: 0;
+          background: rgba(0,0,0,.5);
+          color: #fff;
+          text-shadow: 0 -1px 0 rgba(0,0,0,.3);
+          font-size: 14px;
+          line-height: 18px;
+        }
+    </style>
+    {% endif %}
+
+
+
+    {% endblock %}
+        
+{% block carousel-body %}
+    
+<!—Construct IN Template—>
+
+    {% if carousel %}
+
+    <div class="container">
+
+        <h3>Carousel</h3>
+    
+            <div class="row">
+                <div id="slider" class="flexslider col-sm-8">
+                  <ul class="slides">
+
+                    <li>
+                      <img class="medium" src="{{ carousel.storyOne.photo.url }}" />
+                        {% if carousel.captionOne %}
+                            <p class="flex-caption">{{ carousel.captionOne }}</p>
+                        {% else %}
+                            <p class="flex-caption">{{ carousel.storyOne.headline }}</p>
+                        {% endif %}
+                    </li>
+                      
+                    <li>
+                      <img class="medium" src="{{ carousel.storyTwo.photo.url }}" />
+                        {% if carousel.captionTwo %}
+                            <p class="flex-caption">{{ carousel.captionTwo }}</p>
+                        {% else %}
+                            <p class="flex-caption">{{ carousel.storyTwo.headline }}</p>
+                        {% endif %}
+                    </li>
+                    <li>
+                      <img class="medium" src="{{ carousel.storyThree.photo.url }}" />
+                        {% if carousel.captionThree  %}
+                            <p class="flex-caption">{{ carousel.captionThree }}</p>
+                        {% else %}
+                            <p class="flex-caption">{{ carousel.storyThree.headline }}</p>
+                        {% endif %}
+                    </li>
+                      
+                 {% if carousel.storyFour %}
+                      {% if carousel.storyFour.photo %}
+                    <li>
+                        <img class="medium" src="{{ carousel.storyFour.photo.url }}" />
+                        {% if carousel.captionFour  %}
+                            <p class="flex-caption">{{ carousel.captionFour }}</p>
+                        {% else %}
+                            <p class="flex-caption">{{ carousel.storyFour.headline }}</p>
+                        {% endif %}
+                    </li>
+                      {% endif %}
+                 {% endif %}
+                      
+                    <!-- items mirrored twice, total of 12 -->
+                  </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div id="carousel" class="flexslider col-sm-8">
+                  <ul class="slides">            
+                    <li>
+                      <img class="medium" src="{{ carousel.storyOne.photo.url }}" />
+                        {% if carousel.captionOne %}
+                            <p class="flex-caption">{{ carousel.captionOne }}</p>
+                        {% else %}
+                            <p class="flex-caption">{{ carousel.storyOne.headline }}</p>
+                        {% endif %}
+                    </li>
+                      
+                    <li>
+                      <img class="medium" src="{{ carousel.storyTwo.photo.url }}" />
+                        {% if carousel.captionTwo %}
+                            <p class="flex-caption">{{ carousel.captionTwo }}</p>
+                        {% else %}
+                            <p class="flex-caption">{{ carousel.storyTwo.headline }}</p>
+                        {% endif %}
+                    </li>
+                    <li>
+                      <img class="medium" src="{{ carousel.storyThree.photo.url }}" />
+                        {% if carousel.captionThree  %}
+                            <p class="flex-caption">{{ carousel.captionThree }}</p>
+                        {% else %}
+                            <p class="flex-caption">{{ carousel.storyThree.headline }}</p>
+                        {% endif %}
+                    </li>
+                      
+                 {% if carousel.storyFour %}
+                      {% if carousel.storyFour.photo %}
+                    <li>
+                        <img class="medium" src="{{ carousel.storyFour.photo.url }}" />
+                        {% if carousel.captionFour  %}
+                            <p class="flex-caption">{{ carousel.captionFour }}</p>
+                        {% else %}
+                            <p class="flex-caption">{{ carousel.storyFour.headline }}</p>
+                        {% endif %}
+                    </li>
+                      {% endif %}
+                 {% endif %}
+                      
+                    <!-- items mirrored twice, total of 12 -->
+                  </ul>
+                </div>
+            </div>
+        </div>
+
+    {% else %}
+
+       <p>No CAROUSEL, SORRY.</p>
+
+    {% endif %}
+
+    {% endblock %}
+
+    {% block javascript-flex-include %}
+        <!—Required in Template—>       
+            <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/flexslider/2.6.1/jquery.flexslider.min.js"></script>
+
+    {% endblock %}
+
+    {% block javascript-flex-code %}
+        <!—JS to add in Template—>
+
+        <script type="text/javascript">
+
+            {% if carousel.js %}
+             <!--custom js -->
+               {{ carousel.js }}
+            
+             {% else %}
+            
+            $(window).load(function() {
+              // The slider being synced must be initialized first
+                <!--default js -->
+              $('#carousel').flexslider({
+                animation: "slide",
+                controlNav: false,
+                animationLoop: false,
+                slideshow: false,
+                itemWidth: 210,
+                itemMargin: 5,
+                asNavFor: '#slider'
+              });
+
+              $('#slider').flexslider({
+                animation: "slide",
+                controlNav: false,
+                animationLoop: false,
+                slideshow: false,
+                sync: "#carousel"
+              });
+            });
+             
+           {% endif %}
+           
+        </script>
+    {% endblock %}
