@@ -6,7 +6,8 @@ from django.views import generic
 from story.models import Story
 from writer.models import Section, Writer
 import logging
-logging.basicConfig(filename='/Users/smosqueda/django-playground/booger/projects/tbtdjangocms/writer/writer.log',level=logging.INFO)
+#logging.basicConfig(filename='/Users/smosqueda/django-playground/booger/projects/tbtdjangocms/writer/writer.log',level=logging.INFO)
+logging.basicConfig(filename='writer.log',level=logging.INFO)
 
 class IndexView(generic.ListView):
     template_name = 'writer/index2.html'
