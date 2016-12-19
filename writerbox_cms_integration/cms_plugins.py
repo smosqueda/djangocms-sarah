@@ -6,7 +6,8 @@ from writer.models import Section, Writer
 from django.shortcuts import get_object_or_404, get_list_or_404, render
 from django.utils.translation import ugettext as _
 import logging
-logging.basicConfig(filename='/Users/smosqueda/django-playground/booger/projects/tbtdjangocms/writerbox_cms_integration/writer_cms.log',level=logging.INFO)
+#logging.basicConfig(filename='/Users/smosqueda/django-playground/booger/projects/tbtdjangocms/writerbox_cms_integration/writer_cms.log',level=logging.INFO)
+logging.basicConfig(filename='writer_cms.log',level=logging.INFO)
 
 '''def reverse_dict(dictionary):
     reverse_dict = {}
