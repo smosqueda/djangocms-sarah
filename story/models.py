@@ -18,13 +18,27 @@ class Story(models.Model):
     twitter_headline = models.CharField(max_length=100)
     fb_headline = models.CharField(max_length=100)
     body_text = HTMLField()
-    preview = models.BooleanField()    
+    preview = models.BooleanField()
     writers = models.ManyToManyField(Writer, related_name="writer_set", help_text="More than one writer allowed")
     other_writers = models.CharField(max_length=200)
     is_live = models.BooleanField()
     photo = models.ImageField(blank=True)
     objects = models.Manager()
-    publish_date = models.DateTimeField(help_text="This is the publication date of your item.")
+    publish_date = models.DateTimeField(help_text="This is the publication date of your item.")    
+    #New fields to accomodate Solr import data
+    #collatedtag equivalent
+    metatags = models.CharField(blank=True, max_length=200)
+    #to map for seo
+    sectionPath = models.CharField(blank=True, max_length=100)
+    #could be writer outside of Times Staff
+    author = models.CharField(blank=True, max_length=150)
+    #could be writer outside of Times Staff
+    byline = models.CharField(blank=True, max_length=100)
+    #needed?
+    #hasimage
+    sourceid = models.CharField(blank=True, max_length=100)
+    #seouri same as headline_slug
+    
     class Meta:
         ordering = ['-publish_date']
         verbose_name_plural = "Stories"
